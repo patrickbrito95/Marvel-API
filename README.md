@@ -1,17 +1,18 @@
 # Marvel API Page
 
-> É uma aplicação com o objetivo de pegar dados da API da Marvel de todos os personagens existentes até o momento. E também quais histórias eles estão presentes. 
+> É uma aplicação com o objetivo de pegar dados da API da Marvel de todos os personagens existentes até o momento. E também quais histórias eles estão presentes.
 > Muito útil para pesquisar personagens da vasta história da Marvel.
 
 ## DEMO
+
 [MARVEL API LINK](link)
 
 ## Quais tecnologias foram usadas?
 
-* React
-* React Router
-* Styled Components
-* md5
+- React
+- React Router
+- Styled Components
+- md5
 
 ## Instalando na sua máquina
 
