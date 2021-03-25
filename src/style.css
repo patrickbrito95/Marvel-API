@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Marvel:wght@700&display=swap');
+
+.character li {
+  list-style: square inside;
+}
+
+.character p {
+  width: 33%;
+}
+
+.container {
+  display: flex;
+  flex-flow: column wrap;
+}
+.infinite {
+  height:500px;
+  overflow:auto;
+
+}
+
